@@ -7,6 +7,7 @@ namespace NiceProject
         public IEnumerable<int> ReadAllNumbers()
         {
             return new int[0];
+
         }
     }
 }
